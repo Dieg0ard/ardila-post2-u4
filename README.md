@@ -1,4 +1,4 @@
-# apellido-post2-u4
+# ardila-post2-u4
 
 Laboratorio 2 de la Unidad 4 - Arquitectura de Computadores. Implementación de macros con parámetros, bucles LOOP y condicionales CMP/Jcc en NASM para DOS de 16 bits.
 
